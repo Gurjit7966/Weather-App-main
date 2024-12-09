@@ -53,8 +53,4 @@ Together, we can make Weather-App more feature-rich and user-friendly!
 
 ## Feedback  
 
-Your feedback is invaluable! If you have any questions, suggestions, or need assistance, feel free to reach out. We'd love to hear how Weather-App is helping you stay weather-wise.  
-
----  
-
-Start using Weather-App today and never let unexpected weather catch you off guard!
+Your feedback is invaluable! If you have any questions, suggestions, feel free to reach out. We'd love to hear how Weather-App is helping you stay weather-wise.  
